@@ -5,12 +5,12 @@ h2 {
     background-color: cadetblue;
 }
 
+
+/* We use the '.' to work on the 'class' selectors*/
 .titles {
     color: red;
 }
 
-
-/* We use the '.' to work on the 'class' selectors*/
 .titles:hover {
     background-color: blue;
 }
