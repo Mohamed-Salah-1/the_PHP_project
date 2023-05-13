@@ -17,6 +17,6 @@ h2 {
     font-style: italic;
 }
 
-p {
-    background-color: brown;
+body {
+    background-color: rgb(227, 173, 173);
 }
