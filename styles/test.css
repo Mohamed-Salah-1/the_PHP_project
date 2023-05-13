@@ -1,0 +1,18 @@
+h2 {
+    color: greenyellow;
+    background-color: cadetblue;
+}
+
+.titles {
+    color: red;
+}
+
+.titles:hover {
+    background-color: blue;
+}
+
+#paras {
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+}
